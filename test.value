@@ -1,0 +1,6 @@
+value Test {
+  NSString* string,
+  id<MyDelegate> delegate,
+  NSUInteger int,
+  id object
+}
